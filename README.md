@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Shannon, a front-end developer based in Toronto. 
+
+Check out my repository for the cool projects I've worked on!
+
+While you're here, check out my <a href="www.shannontao.dev>website</a> to learn more about me and my work.
+
 <!--
 **shanningtatum/shanningtatum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
