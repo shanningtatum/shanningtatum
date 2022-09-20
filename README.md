@@ -3,6 +3,7 @@
 My name is Shannon, a front-end developer based in Toronto. 
 
 My tech stack includes HTML5, CSS3, JavaScript (ES6), jQuery, SASS/SCSS, and React.
+Currently learning Bootstrap, Tailwind, and Typescript 
 
 Check out my repository for the cool projects I've worked on!
 
