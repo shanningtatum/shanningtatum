@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 
 My name is Shannon, a front-end developer based in Toronto. 
 
