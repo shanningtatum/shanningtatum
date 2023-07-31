@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is <a href="https://www.linkedin.com/in/shannon-tao">Shannon</a>, a front-end developer based in Toronto. 
+My name is Shannon, a front-end developer based in Toronto. 
 
 My tech stack includes HTML5, CSS3, JavaScript (ES6), jQuery, SASS/SCSS, and React.
 Currently learning Bootstrap, Tailwind, and Typescript 
