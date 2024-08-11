@@ -7,7 +7,7 @@ Currently learning Bootstrap, Tailwind, and Typescript
 
 Check out my repository for the cool projects I've worked on!
 
-While you're here, check out my <a href="https://www.shannontao.dev/">website</a> to learn more about me and my work.
+While you're here, check out my <a href="[https://www.shannontao.dev/](https://shannerportfolio.netlify.app/)">website</a> to learn more about me and my work.
 
 <!--
 **shanningtatum/shanningtatum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
