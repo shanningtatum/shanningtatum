@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-My name is Shannon, a front-end developer based in Toronto. 
+Web Designer @ Costco Canada
 
-My tech stack includes HTML5, CSS3, JavaScript (ES6), jQuery, SASS/SCSS, and React.
-Currently learning Bootstrap, Tailwind, and Typescript 
+HTML, CSS, SASS, Javascript, React, Adobe Photoshop, Adobe Illustrator, CMS 
 
-Check out my repository for the cool projects I've worked on!
+I design things and I can code it.
 
 While you're here, check out my <a href="[https://www.shannontao.dev/](https://shannerportfolio.netlify.app/)">website</a> to learn more about me and my work.
 
